@@ -16,3 +16,7 @@ Run npm install
 
 Run npm start
 # Todo-App
+
+
+test it out on:
+https://todo-app-weld-seven-39.vercel.app/
